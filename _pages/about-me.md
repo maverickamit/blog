@@ -1,5 +1,6 @@
 ---
 layout: page
+title:  
 permalink: /about-me
 image: "images/my-pic.jpg"
 ---
