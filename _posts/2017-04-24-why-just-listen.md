@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why just listen, when you can dance"
+title: "Why Just Listen, When You Can Dance"
 excerpt: "Out of dancing stars we are born. And in the lights of fireflies we depart."
 tags: 
   - article
