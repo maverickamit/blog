@@ -9,6 +9,7 @@ tags:
 
 # Looking in the Mirror
 
+```
 Walking alone in the winter night
 With a frozen heart and a heavy soul.
 My mind was wandering to the distant thoughts,
@@ -21,3 +22,4 @@ But it was burning inside, a little fire to keep me warm
 And I knew sunlight is ahead, even if I couldn't see through the fog.
 And now I'll tell you my friends, it was with me all along
 Only I opened my eyes as I was dreaming a nightmare of my own.
+```
