@@ -4,4 +4,4 @@ layout: home
 # Welcome
 
 This blog is an attempt to share my thoughts and feelings through my writings. Hope you'll like my work.  
-- [Amit Ghosh](https://maverickamit.gihub.io/about-me/) 
+- [Amit Ghosh](https://maverickamit.github.io/emissary-of-dreams/about-me/) 

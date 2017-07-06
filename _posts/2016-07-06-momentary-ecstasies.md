@@ -2,6 +2,7 @@
 layout: post
 title: " Momentary Ecstasies"
 excerpt: "Why are you smiling? she asked me. “Nothing”, I avoided getting too emotional about it"
+image: "images/holding-hands.jpg"
 tags: 
   - story
 ---
