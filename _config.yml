@@ -2,7 +2,7 @@
 title: Emissary of Dreams
 description: A blog from the heart of an INTJ
 url: https://maverickamit.github.io/emissary-of-dreams/
-logo: halve.png                                       # Site logo
+logo: mylogo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -37,7 +37,7 @@ github:             maverickamit
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          dreamyamitty
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
