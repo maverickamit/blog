@@ -2,7 +2,7 @@
 layout: post
 title: "Open and See"
 excerpt: "Have you ever noticed the cool breeze, Blowing slowly."
-image: "emissary-of-dreams/images/open and see.jpg"
+image: "images/open_and_see.jpg"
 tags: 
   - poem
 ---
