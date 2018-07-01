@@ -2,7 +2,7 @@
 layout: post
 title: "Man Meets a Machine"
 excerpt: "What is a feeling? what are emotions?"
-image: "images/man meets machine.jpg"
+image: "emissary-of-dreams/images/man meets machine.jpg"
 tags: 
   - poem
 ---
