@@ -7,6 +7,11 @@ $(function() {
 });
 
 // Projects Menu
+$('.projects-menu-icon').click(function() {	//$('.projects-menu-icon').click(function() {
+  $('html').toggleClass('no-scroll');	 // $('html').toggleClass('no-scroll');
+  $(this).toggleClass('active');	  //$(this).toggleClass('active');
+  $('.overlay').toggleClass('show');	  //$('.overlay').toggleClass('show');
+});
 //$('.projects-menu-icon').click(function() {
  // $('html').toggleClass('no-scroll');
   //$(this).toggleClass('active');
