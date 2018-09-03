@@ -1,5 +1,5 @@
-<div class="overlay">
-  <ul class="projects-menu">
+#<div class="overlay">
+#  <ul class="projects-menu">
     {% for item in site.data.projects %}
       {% capture image %}{{ item.image }}{% endcapture %}
       {% unless image contains 'http://' or image contains 'https://' %}
