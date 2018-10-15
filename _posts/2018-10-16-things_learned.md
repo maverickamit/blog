@@ -15,6 +15,7 @@ Having said that, here's a couple of things I am grateful for and the things she
 
 2. To learn how to trust and give your love without worrying about being wronged.  
 Trusting doesn't come to me naturally, but she has taught me to be trusting by being an example in my life. Even when I couldn't act as a trustworthy person, she continued to trust me. And I learnt the value of not succumbing to my fears.
+    
 3. To learn to stop wanting to control everything and everyone around me.  
 I was pretty arrogant during my childhood. As arrogant as they come. And my ego soared high above the skies. But she brought it down to the ground. And showed me my mistakes, in my way of thinking that I have the best solution to every questions. No one else confronted me as much as her and I'm grateful to being shown the errors in my way of life. She took the time and effort to point it out to me. 
 
